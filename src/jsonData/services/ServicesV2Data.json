@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "activeClass": "active",
+        "thumb": "service1.png",
+        "title": "Uncompromising Authenticity",
+        "text": "Success starts with trust. We believe in working with KOLs who bring genuine influence, credibility, and engagement to every campaign. Our approach ensures that every project connects with the right audience in an organic, impactful way—no forced narratives, just real connections that drive results."
+    },
+    {
+        "id": 2,
+        "activeClass": "",
+        "thumb": "service2.png",
+        "title": "Adaptive Excellence",
+        "text": "The digital landscape evolves fast, and so do we. Every project has its own identity, and we tailor our strategies to fit its unique needs, audience, and goals. Whether it's a high-profile launch or a niche market activation, our team stays ahead of trends, adjusting in real-time to keep projects moving forward with precision and purpose."
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "thumb": "service3.png",
+        "title": "Customer-Centric Focus",
+        "text": "To maintain a customer-centric focus in a creative agency, prioritize understanding and addressing the unique needs and preferences of each client. Continuously seek feedback to refine our services and tailor creative solutions that provide exceptional value. Cultivate a culture where client satisfaction is the ultimate  measure of success."
+    }
+]

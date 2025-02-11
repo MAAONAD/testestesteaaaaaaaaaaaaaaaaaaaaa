@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "activeClass": "",
+        "thumb": "fun-fact1.png",
+        "delay": "100",
+        "title": "Creative Vision",
+        "end": "1"
+    },
+    {
+        "id": 2,
+        "activeClass": "",
+        "thumb": "fun-fact2.png",
+        "delay": "200",
+        "title": "Smart Execution",
+        "end": "25"
+    },
+    {
+        "id": 3,
+        "activeClass": "",
+        "thumb": "fun-fact3.png",
+        "delay": "400",
+        "title": "Global Reach",
+        "end": "110"
+    },
+    {
+        "id": 4,
+        "activeClass": "",
+        "thumb": "fun-fact4.png",
+        "delay": "600",
+        "title": "Powerful Motion",
+        "end": "4"
+    }
+]
