@@ -158,7 +158,7 @@ const HeaderV3 = () => {
                                 <a href="#team" onClick={handleCloseClick}>Members</a>
                             </li>
                             <li>
-                                <a href="#pricing" onClick={handleCloseClick}>Pricing</a>
+                                <a href="#faq" onClick={handleCloseClick}>FAQ</a>
                             </li>
                             <li>
                                 <a href="#contact" onClick={handleCloseClick}>Contact</a>
