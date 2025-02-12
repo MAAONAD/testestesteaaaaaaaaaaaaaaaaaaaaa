@@ -25,8 +25,8 @@ const ProcessV1 = () => {
                             <img src={process1} alt="Process" />
                         </div>
                         <div className="content">
-                            <span className="name">Identification</span>
-                            <span className="designation">Connecting Projects with the Right Voices</span>
+                            <span className="name">Connecting Projects</span>
+                            <span className="designation">with the Right Voices</span>
                             <div className="shape"><span /></div>
                             <p>Identify and activate the most relevant KOLs to amplify 
                             your project's reach and influence.</p>
@@ -40,8 +40,8 @@ const ProcessV1 = () => {
                             <img src={process2} alt="Process" />
                         </div>
                         <div className="content">
-                            <span className="name">Acceleration</span>
-                            <span className="designation">Scaling Visibility and Growth</span>
+                            <span className="name">Scaling</span>
+                            <span className="designation">Visibility and Growth</span>
                             <div className="shape"><span /></div>
                             <p>Push projects forward by leveraging high-impact strategies that drive attention and momentum.</p>
                         </div>
@@ -54,8 +54,8 @@ const ProcessV1 = () => {
                             <img src={process3} alt="Process" />
                         </div>
                         <div className="content">
-                            <span className="name">Execution</span>
-                            <span className="designation">Turning Plans into Results</span>
+                            <span className="name">Turning</span>
+                            <span className="designation">Plans into Results</span>
                             <div className="shape"><span /></div>
                             <p>Implement strategies with precision to achieve tangible, measurable outcomes.</p>
                         </div>
