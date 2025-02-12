@@ -14,6 +14,7 @@
         "name": "Xia",
         "designation": "The Visionary Connector",
         "text": "As a forward-thinking innovator, Xia excels at bridging the gap between brands and their audiences. Her keen insight and collaborative spirit ensure every project finds its perfect resonance in the market.",
+        "twitterUrl": "https://x.com/xiaweb3",
         "delay": 200
     },
     {
@@ -22,6 +23,7 @@
         "name": "Jas",
         "designation": "The Community Catalyst",
         "text": "Committed to building authentic communities, Jas energizes audiences through genuine engagement. His influence within the crypto sphere turns casual followers into devoted supporters.",
+        "twitterUrl": "https://x.com/JasCrypto_",
         "delay": 400
     },
     {
@@ -30,6 +32,7 @@
         "name": "The Alchemist",
         "designation": "The Growth Sorcerer",
         "text": "Merging data-driven tactics with imaginative flair, The Alchemist conjures unstoppable growth. His inventive approach consistently turns early-stage ideas into mainstream success.",
+        "twitterUrl": "https://x.com/Crypto_Alch",
         "delay": 0
     },
     {
@@ -38,6 +41,7 @@
         "name": "Crypto Thanos",
         "designation": "The Market Disruptor",
         "text": "Armed with a fearless mindset, Crypto Thanos disrupts traditional norms to spark innovation. His commanding presence in the crypto world ensures brands stay ahead of the curve.",
+        "twitterUrl": "https://x.com/CryptoThannos",
         "delay": 200
     }
 ]
