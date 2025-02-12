@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "activeClass": "",
+        "activeClass": "active",
         "thumb": "fun-fact1.png",
         "delay": "100",
         "title": "Creative Vision",
