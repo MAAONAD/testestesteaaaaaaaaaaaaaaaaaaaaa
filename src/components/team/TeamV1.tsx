@@ -32,7 +32,7 @@ const TeamV1 = () => {
                         </div>
                         <div className="team-cv-footer">
                             <Link to="" className="theme-btn">
-                            Discover The Full Lineup
+                            Discover The Full Lineup (Coming soon)
                                 <img src={btnArrow} alt="icon" />
                             </Link>
                         </div>
