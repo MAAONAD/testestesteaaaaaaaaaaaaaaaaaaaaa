@@ -7,7 +7,7 @@ const AwardsV1 = () => {
                 <div className="section-header">
                     <span className="section-subtitle">
                         <img src={Union} alt="icon" />
-                        Our Missions
+                        OUR MISSIONS
                     </span>
                 </div>
                 <div className="awards-list">
