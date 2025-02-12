@@ -10,7 +10,7 @@ const ProcessV1 = () => {
                 <div className="section-header section-header2">
                     <span className="section-subtitle">
                         <img src={Union} alt="icon" />
-                        Our Process
+                        OUR PROCESS
                     </span>
                     <h2 className="section-title section-title2">
                         Refined Process, <span>Efficient Flow</span>
