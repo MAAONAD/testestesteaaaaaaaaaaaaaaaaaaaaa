@@ -13,7 +13,7 @@ const AboutV1 = () => {
                             <img src={unionIcon} alt="About Us" /> ABOUT US
                         </span>
                         <AnimatedText>
-                        Founded on the drive for innovation, impact, and precision, getMotion is a team of forward-thinkers committed to pushing projects further and creating motion that stands out...
+                        Founded on a passion for innovation, impact, and precision, getMotion is a collective of forward-thinkers dedicated to pushing projects further and crafting experiences that truly stand out. Our approach is built on four pillars, the cornerstone of our methodology.
                         </AnimatedText>
                     </div>
                     <div className="funfacts-wrap">
