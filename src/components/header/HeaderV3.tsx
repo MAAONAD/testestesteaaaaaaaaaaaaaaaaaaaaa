@@ -76,19 +76,19 @@ const HeaderV3 = () => {
                                 <a href="#about" onClick={handleCloseClick}>About Us</a>
                             </li>
                             <li>
-                                <a href="#services" onClick={handleCloseClick}>Values</a>
+                                <a href="#services" onClick={handleCloseClick}>Our Values</a>
                             </li>
                             <li>
-                                <a href="#projects" onClick={handleCloseClick}>Process</a>
+                                <a href="#process" onClick={handleCloseClick}>Our Process</a>
                             </li>
                             <li>
-                                <a href="#awards" onClick={handleCloseClick}>Missions</a>
+                                <a href="#awards" onClick={handleCloseClick}>Our Missions</a>
                             </li>
                             <li>
-                                <a href="#team" onClick={handleCloseClick}>Members</a>
+                                <a href="#team" onClick={handleCloseClick}>Our KOLs</a>
                             </li>
                             <li>
-                                <a href="#contact" onClick={handleCloseClick}>Contact</a>
+                                <a href="#contact" onClick={handleCloseClick}>Let's connect</a>
                             </li>
                             <li>
                                 <a href="#faq" onClick={handleCloseClick}>FAQ</a>
