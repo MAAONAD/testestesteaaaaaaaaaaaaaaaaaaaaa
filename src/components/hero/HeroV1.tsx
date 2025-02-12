@@ -38,10 +38,15 @@ const HeroV1 = () => {
                             </div>
 
                             {/* Button Section */}
-                            <Link to="/contact" className="theme-btn">
-                                {`Let's Connect`}
+                            <a 
+                              href="https://cal.com/getmotion/30min" 
+                              className="theme-btn" 
+                              target="_blank" 
+                              rel="noopener noreferrer"
+                            >
+                                {`Let's book a call`}
                                 <img src={btnArrowIcon} alt="icon" />
-                            </Link>
+                            </a>
                         </div>
                     </div>
                 </div>
