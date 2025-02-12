@@ -37,14 +37,10 @@ const FooterV1 = () => {
                                             </div>
                                         </div>
                                     </div>
-                                     <a 
-                              href="https://cal.com/getmotion/30min" 
-                              className="theme-btn" 
-                              target="_blank" 
-                              rel="noopener noreferrer"
-                            >
-                                {`Let's book a call`}
-                                <img src={btnArrowIcon} alt="icon" />
+                                    <Link to="/contact" className="theme-btn">
+                                        {`Let's Connect`}
+                                        <img src={btnArrow} alt="icon" />
+                                    </Link>
                                 </div>
                             </div>
                         </div>
