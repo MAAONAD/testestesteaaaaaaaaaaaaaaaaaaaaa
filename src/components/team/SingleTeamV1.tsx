@@ -16,12 +16,12 @@ const SingleTeamV1 = ({ member }: { member: DataType }) => {
         <>
             <div className="team-member-box" data-aos="fade-up" data-aos-delay={delay}>
                 <div className="img-box">
-                    <Link to={}>
+                    <Link to={`/team-details/${id}`}>
                         <img src={`/assets/images/${thumb}`} alt="team-img" />
                     </Link>
                 </div>
                 <div className="content">
-                    <Link to={}>
+                    <Link to={`/team-details/${id}`}>
                         <span className="name">{name}</span>
                     </Link>
                     <span className="designation">{designation}</span>
