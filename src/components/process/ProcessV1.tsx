@@ -6,7 +6,7 @@ import process3 from "/assets/images/process3.jpg"
 const ProcessV1 = () => {
     return (
         <>
-            <div className="process-sec">
+            <div className="process-sec" id="process">
                 <div className="section-header section-header2">
                     <span className="section-subtitle">
                         <img src={Union} alt="icon" />
