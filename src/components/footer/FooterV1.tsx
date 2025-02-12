@@ -52,13 +52,13 @@ const FooterV1 = () => {
                                     <h4>Social</h4>
                                     <ul>
                                         <li>
-                                            <a className="with-border" href="https://instagram.com/" target="_blank">
-                                                <img src={btnArrow} alt="icon" /> Instagram
+                                            <a className="with-border" href="https://x.com/getMotioon" target="_blank">
+                                                <img src={btnArrow} alt="icon" /> X/Twitter
                                             </a>
                                         </li>
                                         <li>
-                                            <a className="with-border" href="https://twitter.com/" target="_blank">
-                                                <img src={btnArrow} alt="icon" /> Twitter
+                                            <a className="with-border" href="https://x.com/getMotioon" target="_blank">
+                                                <img src={btnArrow} alt="icon" /> Discord
                                             </a>
                                         </li>
                                     </ul>
