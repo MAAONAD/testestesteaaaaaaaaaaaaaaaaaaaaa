@@ -13,8 +13,8 @@ const FooterV1 = () => {
                         <div className="col-md-3">
                             <div className="footer-widget footer-link">
                                 <div className="footer-widget-top">
-                                    <h4>COMPANY</h4>
-                                    <p>getMotion is a forward-thinking KOL agency dedicated to accelerating project success through strategic partnerships and innovative solutions. We connect ambitious projects with influential voices to create lasting impact.</p>
+                                    <h4>getMotion</h4>
+                                    <p>We drive next-level success through strategic KOL partnerships and innovative solutions. We team up with ambitious projects and influential voices to spark lasting impact in every campaign.</p>
                                 </div>
                                 <div className="copyright">
                                     &copy; {(new Date().getFullYear())} ALL RIGHTS RESERVED
