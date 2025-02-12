@@ -10,33 +10,33 @@
     {
         "id": 2,
         "thumb": "team2.png",
-        "name": "XXX",
-        "designation": "XXX",
-        "text": "XXX",
+        "name": "Xia",
+        "designation": "The Visionary Connector",
+        "text": "As a forward-thinking innovator, Xia excels at bridging the gap between brands and their audiences. Her keen insight and collaborative spirit ensure every project finds its perfect resonance in the market.",
         "delay": 200
     },
     {
         "id": 3,
         "thumb": "team3.png",
-        "name": "XXX",
-        "designation": "XXX",
-        "text": "XXX",
+        "name": "Jas",
+        "designation": "The Community Catalyst",
+        "text": "Known for nurturing engaged and loyal followings, Jas brings people together through authentic storytelling and grassroots advocacy. His vibrant energy fuels brand communities, transforming casual followers into passionate supporters.",
         "delay": 400
     },
     {
         "id": 4,
         "thumb": "team4.png",
-        "name": "XXX",
-        "designation": "XXX",
-        "text": "XXX",
+        "name": "The Alchemist",
+        "designation": "The Growth Sorcerer",
+        "text": "Combining keen analytics with creative flair, The Alchemist has a knack for transforming fledgling ideas into high-impact campaigns. His unique blend of data-driven strategy and imaginative problem-solving drives exceptional growth.",
         "delay": 0
     },
     {
         "id": 5,
         "thumb": "team5.png",
-        "name": "XXX",
-        "designation": "XXX",
-        "text": "XXX",
+        "name": "Crypto Thanos",
+        "designation": "The Market Disruptor",
+        "text": "Embracing the cutting edge of blockchain and cryptocurrency, Crypto Thanos guides projects through groundbreaking shifts. His fearless approach and deep industry knowledge empower brands to conquer uncharted territories.",
         "delay": 200
     }
 ]
