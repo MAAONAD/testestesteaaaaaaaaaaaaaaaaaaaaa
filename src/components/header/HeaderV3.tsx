@@ -107,13 +107,13 @@ const HeaderV3 = () => {
             <div className="notch-bar-menu-wrap">
                 <ul>
                     <li><a className="anchor active" href="#hero">Hero</a></li>
-                    <li><a className="anchor" href="#about">About</a></li>
-                    <li><a className="anchor" href="#services">Services</a></li>
-                    <li><a className="anchor" href="#projects">Projects</a></li>
-                    <li><a className="anchor" href="#awards">Awards</a></li>
-                    <li><a className="anchor" href="#team">Team</a></li>
-                    <li><a className="anchor" href="#pricing">Pricing</a></li>
-                    <li><a className="anchor" href="#contact">Contact</a></li>
+                    <li><a className="anchor" href="#about">About Us</a></li>
+                    <li><a className="anchor" href="#services">Our Values</a></li>
+                    <li><a className="anchor" href="#process">Our Process</a></li>
+                    <li><a className="anchor" href="#awards">Our Missions</a></li>
+                    <li><a className="anchor" href="#team">Our KOLs</a></li>
+                    <li><a className="anchor" href="#contact">Let's connect</a></li>
+                    <li><a className="anchor" href="#faq">FAQ</a></li>
                 </ul>
             </div>
 
