@@ -7,6 +7,7 @@ interface DataType {
     designation?: string;
     text?: string;
     delay?: number;
+    twitterUrl?: string;
 }
 
 const SingleTeamV1 = ({ member }: { member: DataType }) => {
