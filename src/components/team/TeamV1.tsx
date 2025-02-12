@@ -31,7 +31,7 @@ const TeamV1 = () => {
                             <p>At getMotion, we know that every project is unique, with its own vision, goals, and challenges. That’s why we’ve built a diverse network of KOLs, each perfectly suited to different needs and industries. Whether you’re launching a bold new idea or refining an established brand, our experts are ready to push your vision forward with precision and impact.</p>
                         </div>
                         <div className="team-cv-footer">
-                            <Link to="/contact" className="theme-btn">
+                            <Link to="" className="theme-btn">
                             Discover The Full Lineup
                                 <img src={btnArrow} alt="icon" />
                             </Link>
