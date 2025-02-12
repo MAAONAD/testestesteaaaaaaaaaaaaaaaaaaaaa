@@ -20,7 +20,7 @@
         "thumb": "team3.png",
         "name": "Jas",
         "designation": "The Community Catalyst",
-        "text": "Known for nurturing engaged and loyal followings, Jas brings people together through authentic storytelling and grassroots advocacy. His vibrant energy fuels brand communities, transforming casual followers into passionate supporters.",
+        "text": "Committed to building authentic communities, Jas energizes audiences through genuine engagement. His influence within the crypto sphere turns casual followers into devoted supporters.",
         "delay": 400
     },
     {
@@ -28,7 +28,7 @@
         "thumb": "team4.png",
         "name": "The Alchemist",
         "designation": "The Growth Sorcerer",
-        "text": "Combining keen analytics with creative flair, The Alchemist has a knack for transforming fledgling ideas into high-impact campaigns. His unique blend of data-driven strategy and imaginative problem-solving drives exceptional growth.",
+        "text": "Merging data-driven tactics with imaginative flair, The Alchemist conjures unstoppable growth. His inventive approach consistently turns early-stage ideas into mainstream success.",
         "delay": 0
     },
     {
@@ -36,7 +36,7 @@
         "thumb": "team5.png",
         "name": "Crypto Thanos",
         "designation": "The Market Disruptor",
-        "text": "Embracing the cutting edge of blockchain and cryptocurrency, Crypto Thanos guides projects through groundbreaking shifts. His fearless approach and deep industry knowledge empower brands to conquer uncharted territories.",
+        "text": "Armed with a fearless mindset, Crypto Thanos disrupts traditional norms to spark innovation. His commanding presence in the crypto world ensures brands stay ahead of the curve.",
         "delay": 200
     }
 ]
