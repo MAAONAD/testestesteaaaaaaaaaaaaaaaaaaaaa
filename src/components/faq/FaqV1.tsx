@@ -5,7 +5,7 @@ import pricingShape2 from "/assets/images/pricing-shape2.png"
 const FaqV1 = () => {
     return (
         <>
-            <div className="faq-sec">
+            <div className="faq-sec" id="faq">
                 <div className="section-header section-header2">
                     <span className="section-subtitle">
                         <img src={Union} alt="icon" />
