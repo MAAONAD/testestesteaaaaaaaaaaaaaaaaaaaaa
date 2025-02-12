@@ -64,7 +64,7 @@ const HeaderV3 = () => {
                             </li>
                             <li>
                                 <span>UK</span>
-                                <a href="tel:+1234567890"></a>
+                                <a href=""></a>
                             </li>
                         </ul>
                     </div>
@@ -88,10 +88,10 @@ const HeaderV3 = () => {
                                 <a href="#team" onClick={handleCloseClick}>Members</a>
                             </li>
                             <li>
-                                <a href="#pricing" onClick={handleCloseClick}>Contact</a>
+                                <a href="#contact" onClick={handleCloseClick}>Contact</a>
                             </li>
                             <li>
-                                <a href="#contact" onClick={handleCloseClick}>FAQ</a>
+                                <a href="#faq" onClick={handleCloseClick}>FAQ</a>
                             </li>
                         </ul>
                     </nav>
@@ -158,10 +158,10 @@ const HeaderV3 = () => {
                                 <a href="#team" onClick={handleCloseClick}>Members</a>
                             </li>
                             <li>
-                                <a href="#faq" onClick={handleCloseClick}>FAQ</a>
+                                <a href="#contact" onClick={handleCloseClick}>Contact</a>
                             </li>
                             <li>
-                                <a href="#contact" onClick={handleCloseClick}>Contact</a>
+                                <a href="#faq" onClick={handleCloseClick}>FAQ</a>
                             </li>
                         </ul>
                     </nav>
