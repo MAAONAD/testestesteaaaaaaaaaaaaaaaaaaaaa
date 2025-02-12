@@ -19,13 +19,13 @@ const HeroV1 = () => {
 
                             {/* Hero Description */}
                             <div className="hero-top-desc">
-                                <p>“At getMotion, we believe that momentum drives success. As a full-service creative agency, we specialize in propelling projects forward and crafting dynamic motion that captures attention.</p>
-                                <p>Whether it's amplifying a brand, designing seamless digital experiences, or executing high-impact marketing campaigns, we ensure every project moves with purpose and reaches the right audience.“</p>
+                                <p>“At getMotion, we harness momentum as the engine behind success. As a full-service creative agency, we specialize in accelerating projects and crafting engaging, innovative experiences that capture attention. </p>
+                                <p>Whether you're looking to elevate your brand, create seamless digital interactions, or launch high-impact marketing campaigns, we ensure every project advances with purpose and connects with the right audience.“</p>
                             </div>
 
                             {/* Author Information */}
                             <div className="author-info">
-                                <h4>getMotion</h4>
+                                <h4>We believe that momentum drives success.</h4>
                                 <span></span>
                             </div>
                         </div>
