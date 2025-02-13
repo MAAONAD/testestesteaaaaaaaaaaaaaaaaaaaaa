@@ -22,9 +22,7 @@ const SingleFactV1 = ({ fact }: { fact: DataType }) => {
                 </div>
                 <div className="funfact-footer">
                     <span className="number">{end}<span></span></span>
-                    <Link to={`/service-details/${id}`}>
                         <img src={angleIcon} alt="icon" />
-                    </Link>
                 </div>
             </div>
         </>
